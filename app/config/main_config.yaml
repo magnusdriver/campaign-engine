@@ -1,0 +1,12 @@
+gcp-parameters:
+  project-id: proyect-id
+  register-topic-id: register
+  register-subscription-id: register-sub
+  oauth-client-id: xxxxxx.apps.googleusercontent.com
+  locations-subscription: location-sub
+
+postgresql-parameters:
+  host: ip-dir
+  database: campaignsdb
+  user: postgres
+  password: pass

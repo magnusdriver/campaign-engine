@@ -1,0 +1,8 @@
+google-cloud-pubsub == 2.17.1
+psycopg2-binary == 2.9.7
+sqlalchemy
+SQLAlchemy-serializer
+asyncio
+asyncpg
+pyyaml
+geopy
